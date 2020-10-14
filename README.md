@@ -1,5 +1,5 @@
-# CO2Vec
-Official implementation of CO2Vec: Embeddings of Co-Ordered Networks Based on Mutual Reinforcement (DSAA 2020).
+# CO2Vec: Embeddings of Co-Ordered Networks Based on Mutual Reinforcement
+Official implementation of our paper "CO2Vec: Embeddings of Co-Ordered Networks Based on Mutual Reinforcement" (DSAA 2020). CO2Vec is an order representation learning model for co-ordered netwroks. 
 
 ## Dependencies
 The core learning model is built using [PyTorch](https://pytorch.org/)
